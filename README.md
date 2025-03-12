@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### I am the student from ncwu.
+
+I'm learning CS, python, Go and C##,
+I;m interested in 3D printing.
+
 <!--
 **Qian315/Qian315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
